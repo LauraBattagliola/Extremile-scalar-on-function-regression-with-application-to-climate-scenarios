@@ -1,2 +1,2 @@
-# Extremile-scalar-on-function-regression-with-application-to-climate-scenarios---Code
-Code used for the simulations and application sections 
+# Code for "Extremile scalar-on-function regression with applicaton to climate scenarios"
+Scripts to create plots in Sections 4 and 5.
